@@ -1,0 +1,17 @@
+{
+    "level": "error",
+    "message": "invalid input syntax for type integer: \"a\"",
+    "service": "user-service",
+    "timestamp": "25-08-2022"
+}{
+    "level": "error",
+    "message": "invalid input syntax for type integer: \"a\"",
+    "service": "user-service",
+    "timestamp": "25-08-2022"
+}
+{
+    "level": "error",
+    "message": "invalid input syntax for type integer: \"a\"",
+    "service": "user-service",
+    "timestamp": "25-08-2022"
+}
